@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
 <h2> Hey there! I'm Prasun.</h2>
 
@@ -43,7 +42,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/prasun-parmar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Prasun%20Parmar-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:prasunparmar2812@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-prasunparmar2812@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
