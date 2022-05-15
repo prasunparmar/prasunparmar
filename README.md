@@ -5,7 +5,7 @@
 
 - 🌍 &nbsp; Based in Valsad,Gujarat,India.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at Sardar Patel University.
+- 🎓 &nbsp; Completed BCA and MCA at Sardar Patel University.
 - 💼 &nbsp; Working as Software Developer at Jajal Medical.
 - 🌱 &nbsp; Learning more about 3D Software and Artificial Intelligence.
 
